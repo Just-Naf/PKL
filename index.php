@@ -37,7 +37,7 @@ if (isset($_POST['submit'])) {
  
     <link rel="stylesheet" type="text/css" href="style.css">
  
-    <title>Skanibar Tutorial</title>
+    <title>Skanibar</title>
 </head>
 <body>
     <div class="alert alert-warning" role="alert">
